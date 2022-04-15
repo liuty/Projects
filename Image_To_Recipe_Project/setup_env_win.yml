@@ -1,0 +1,18 @@
+name: DLFood
+channels:
+- defaults
+- pytorch
+- conda-forge
+dependencies:
+- jupyter
+- matplotlib
+- pip
+- pytest
+- python=3.6
+- pytorch-cpu
+- torchvision-cpu=0.2
+- pyyaml
+- scipy
+- opencv
+- scikit-learn
+- pandas

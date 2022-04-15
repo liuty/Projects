@@ -1,0 +1,5 @@
+training set:
+loss: 2.0151 - acc: 0.5100 - val_loss: 1.2378 - val_acc: 0.5982
+
+test:
+0.5982000231742859
