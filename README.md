@@ -1,7 +1,6 @@
 # Projects
 
 # Fairness Resolution Study Project:
-
 There exist numerous definitions of fairness in Machine Learning, and are typically addressed by optimizing a model for a particular fairness definition. In this project, we study the effects of optimizing for a particular fairness definition on alternate definitions of fairness.
 
 # Human Learning Modeling Project:
@@ -12,3 +11,7 @@ The goal of this project is to be able to produce a recipe given an image of foo
 
 # Mask Detection Project:
 This project creates a system to detect face masks using computer vision, making use of some advanced computer vision techniques such as YOLO and Faster-RCNN.
+
+# Spotify Music Playlist Generator:
+Using some statistical analysis on Spotify's 1M playlist dataset, this project generates song recommendations based around a given song, artist, or keyword (such as "love" or "workout"
+
